@@ -3,12 +3,12 @@
 
 def example_function():
     # This function has bad indentation
-print("Hello world!")
+    print("Hello world!")
 
 
 def another_function():
     a=10  # Missing spaces around the assignment operator
-    prit(a)
+    print(a)
 
 
 if __name__ == "__main__":
